@@ -1,5 +1,7 @@
-## Hi there 👋
+## Merrimack College - 21
 
+- 🔭 I'm Currently Developing and researching a locationally aware AI application through a Merrimack FJRAC research grant
+- 📫 How to reach me: featehrstonj@merrimack.edu
 <!--
 **justinfeatherstone/justinfeatherstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

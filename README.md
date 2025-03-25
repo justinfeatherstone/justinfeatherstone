@@ -1,6 +1,7 @@
-## Merrimack College - 21
+## Justin Featherstone // Merrimack College // 21 years old
 
-- 🔭 I'm Currently Developing and researching a locationally aware AI application through a Merrimack FJRAC research grant
+- 🔭 I'm currently developing and researching a locationally aware AI dietitian application through a Merrimack FJRAC research grant to serve communities surronding North Andover, MA.
+
 - 📫 How to reach me: featehrstonj@merrimack.edu
 <!--
 **justinfeatherstone/justinfeatherstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
